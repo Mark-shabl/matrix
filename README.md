@@ -79,7 +79,7 @@ python test_matrix_operations.py
 ## Структура проекта
 
 ```
-matrix_operations/
+matrix/
 │
 ├── matrix_operations.py  # Основной модуль с реализацией класса Matrix
 ├── test_matrix_operations.py  # Юнит-тесты
