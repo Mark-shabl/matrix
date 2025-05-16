@@ -1,4 +1,4 @@
-```markdown
+
 # Matrix Operations Library
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -89,5 +89,5 @@ matrix_operations/
 ## Лицензия
 
 Этот проект распространяется под лицензией MIT. См. файл [LICENSE](LICENSE) для получения дополнительной информации.
-```
+
 
